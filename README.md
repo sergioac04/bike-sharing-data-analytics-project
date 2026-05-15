@@ -15,11 +15,11 @@ This project analyzes bike-sharing rental patterns using cleaned hourly rental, 
 3. Exported the cleaned data into Excel/CSV format.
 4. Imported the cleaned dataset into DBeaver.
 5. Used SQL queries to analyze rental trends between registerd and casual users by season, weather, time, holiday, and working day.
-6. Imported the cleaned dataser into Tableau to create visualizations of insights
+6. Imported the cleaned dataser into Tableau to create visualizations of insights.
 
 ## Key Insights
 - Rental demand varies strongly by season and weather.
-- Rentals by registered users far outweighs casual users
+- Rentals by registered users far outweighs casual users.
 - Clear weather generally leads to higher bike usage.
 - Working days and holidays show different rental patterns.
 - Certain time periods show lower demand and could be targeted with promotions.
